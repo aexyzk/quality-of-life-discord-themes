@@ -1,0 +1,106 @@
+/*==========
+RemoveClutter.theme.css by aarav2you
+How to inject: Paste in "Custom CSS" tab in BetterDiscord or download and use as theme
+========== */
+
+
+/* Stickers same size as emojis */
+.assetWrapper-3GNt0z {
+        max-width: 48px;
+        max-height: 48px;
+}
+
+/* Removes the nitro button at left-bottom */
+.fixedBottomList-1yrBla {
+        display: none;
+}
+
+/* Removes the Search Bar at the top of DMS */
+.searchBar-3TnChZ {
+        display: none;
+}
+
+/* Removes the Big Nitro Button */
+a[href="/store"] {
+        display: none;
+}
+
+/* Removes the Big Shop Button */
+a[href="/shop"] {
+        display: none;
+}
+
+/* remove emoji button*/
+.emojiButtonNormal__73cd3{
+	display: none;
+}
+
+/* Removes "Inbox" button */
+div[aria-label="Inbox"] {
+        display: none;
+}
+
+/* Removes "Support" question mark button */
+a[href="https://support.discord.com"]
+{
+        display: none;
+}
+
+/* Removes "Support" question mark button from search popup */
+.searchLearnMore-1gNL3A {
+        display: none;
+}
+
+/* Removes "Active Now" section in Friends tab */
+.nowPlayingColumn-1eCBCN {
+        display: none;
+}
+
+/* Removes the "Group DM" button and divider in Friends tab */
+.inviteToolbar-2k2nqz {
+        display: none;
+}
+
+/* Removes "Gift nitro" button from message bar */
+button[aria-label="Send a gift"] {
+        display: none;
+}
+
+/* Removes "Sticker picker" button from message bar */
+button[aria-label="Open sticker picker"] {
+        display: none;
+}
+
+/* Removes "GIF picker" button from message bar */
+button[aria-label="Open GIF picker"] {
+        display: none;
+}
+
+/* Hides "Mark as Read" and icon in the "Unread messages" notification */
+.barButtonAlt-TQoCdZ.barButtonBase-Sk2mdB {
+        display: none;
+}
+
+/* Hides the New Message indicator next to only folders */
+.wrapper-38slSD > .listItem-3SmSlK > .pill-2RsI5Q {
+        display: none;
+}
+
+/*Hide public servers*/
+div[aria-label="Explore Public Servers"] {
+        display: none;
+}
+
+/* Removes the Big Nitro Button */
+a[href="/store"] {
+        display: none;
+}
+
+.item_e4ca95 addFriend__80542 item__48dda themed_b957e8{
+	display: none;
+}
+
+/*reomve header for dms*/
+.privateChannelsHeaderContainer_ddcec6{
+	display: none;
+}
