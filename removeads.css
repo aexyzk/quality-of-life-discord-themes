@@ -30,11 +30,6 @@ a[href="/shop"] {
         display: none;
 }
 
-/* remove emoji button*/
-.emojiButtonNormal__73cd3{
-	display: none;
-}
-
 /* Removes "Inbox" button */
 div[aria-label="Inbox"] {
         display: none;
@@ -97,10 +92,5 @@ a[href="/store"] {
 }
 
 .item_e4ca95 addFriend__80542 item__48dda themed_b957e8{
-	display: none;
-}
-
-/*reomve header for dms*/
-.privateChannelsHeaderContainer_ddcec6{
 	display: none;
 }
